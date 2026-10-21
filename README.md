@@ -7,14 +7,14 @@
 
 ---
 
-## About Me 👩🏻‍💻
+## About Me 
 
 I'm Saphya from Morocco 🇲🇦  
 I'm a Data Engineering & AI Student
 
 ---
 
-## Tech Stack 👾
+## Tech Stack 
 
 **Data Engineering**
 
@@ -44,12 +44,7 @@ I'm a Data Engineering & AI Student
 [![X](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SOulhaj12157)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Saphya)
 
----
-
-## What Drives Me 💜
-
-> I believe **AI should be inclusive** — built for and by people from all backgrounds, languages, and geographies.  
-> From Morocco to the world, I'm here to engineer data solutions that actually matter. 💜
+--- 
 
 ---
 
